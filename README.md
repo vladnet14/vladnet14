@@ -1,5 +1,6 @@
 <h1 align="center">Приветствую 👋,меня зовут Владислав</h1>
 <h3 align="center">Я увлекаюсь программированием с 13 лет</h3>
+<img align="right" alt+"coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladnet14&label=Profile%20views&color=0e75b6&style=flat" alt="vladnet14" /> </p>
 
