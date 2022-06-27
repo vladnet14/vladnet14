@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif])](https://ru.freepik.com/premium-vector/programmer-typographic-header-concept-idea-of-working-on_9371517.htm)
 <h1 align="center">Приветствую 👋,меня зовут Владислав</h1>
 <h3 align="center">Я увлекаюсь программированием с 13 лет</h3>
 <img align="right" alt+"coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
